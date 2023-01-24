@@ -8,15 +8,13 @@
 <img src="https://komarev.com/ghpvc/?username=DannyYu728-03&style=flat-square&color=blue" alt="View Counter"/>
 </div>
 
-## Hello!, My name is Danny!
+## Hello! My name is Danny!
 #### *Software* Engineer <-- Insurance Underwriter* 
 I live in New York City, borned and raised.
 
 I have 7+ years of experience as an Insurance Underwriter but found coding fascinating since I was a child and now here I am, a software engineer. Coding and its community is amazing, I love how everyone helps, learns from each other, and promotes innovation daily. I'm glad to be part of this wonderful community!
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -38,6 +36,9 @@ I have 7+ years of experience as an Insurance Underwriter but found coding fasci
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch"  alt="pytorch" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="panda"  alt="panda" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java"  alt="java" width="40" height="40"/>&nbsp;
+ </div>
+ 
+
 
 
 
