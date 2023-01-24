@@ -12,8 +12,7 @@
 #### *Software* Engineer <-- Insurance Underwriter* 
 I live in New York City, borned and raised.
 
-I have 7+ years of experience as an Insurance Underwriter but found coding fascinating since i was a child and now here I am, a software engineer.
-Coding and it's community is amazing, I love how everyone helps, learn from each other and promote innovation daily. I'm glad to be part of this wonderful community!
+I have 7+ years of experience as an Insurance Underwriter but found coding fascinating since I was a child and now here I am, a software engineer. Coding and its community is amazing, I love how everyone helps, learns from each other, and promotes innovation daily. I'm glad to be part of this wonderful community!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
